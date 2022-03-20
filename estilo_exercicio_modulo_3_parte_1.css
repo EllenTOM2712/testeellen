@@ -1,0 +1,33 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+ul{
+    list-style: none;
+    background-color: chartreuse;
+}
+
+.lista-inicial{
+    color: red;
+}
+
+.lista-inicial a{
+    text-decoration: none;
+    color: red;
+}
+
+.titulo_fundo{
+    background-color: blue;
+}
+
+.titulo{
+    color: red;
+    font-weight: bold;
+}
+
+.section-tenis{
+    background-image: url("./img/Leveza\ e\ agilidade.png");
+    width: 400 px;
+    height: 600 px;
+
+}
